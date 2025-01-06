@@ -58,14 +58,10 @@ Currently, I'm working on building my portfolio and developing innovative projec
 <br/>
 
 ## Connect with me
-<div align="center">
-  <a href="https://github.com/Baesp1" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/Baesp" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-</div>
+
+- 💼 **LinkedIn**: [https://linkedin.com/in/Baesp](https://linkedin.com/in/Baesp)
+- 🧑‍💻 **Port-foil**: [https://baesp1.github.io/](https://baesp1.github.io/)
+- 📧 **Email**: [baesp2023@gmail.com](mailto:baesp2023@gmail.com)
 
 <br/>
 
