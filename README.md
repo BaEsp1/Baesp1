@@ -4,14 +4,15 @@
 
 ### Hi there! I'm Bárbara 👩‍💻
 
-I'm a passionate full-stack web developer 🚀. I love crafting elegant and responsive websites, and I enjoy building applications that improve users' lives. I’m always eager to learn new technologies and enhance my skill set.
+I'm a Full Stack Developer with a strong focus on frontend technologies. I enjoy building responsive, elegant, and user-centered web applications. Passionate about continuous learning, I'm currently expanding my skills in Next.js, Angular, and modern development tools.
 
-Currently, I'm working on building my portfolio and developing innovative projects, including creating a fintech solution. I'm diving deeper into Angular and Next.js to further expand my expertise in modern web technologies.
+🚀 I've participated in award-winning hackathons and built several real-world applications in collaborative environments.
 
-- 🔭 I’m currently working on new projects like building a fintech platform
-- 🔹 I’m learning **Angular** and **Next.js**
-- ❓ Feel free to ask me anything! You can find me on my networks below.
-- ⚡ Fun fact: I have an unconditional love for foxes. I find their cleverness and adaptability inspiring, just like how I approach problem-solving in development!
+🎯 My goal is to join a team where I can grow professionally, contribute with my skills, and continue learning from others.
+
+🛠️ Tech Stack Highlights: React, Redux, Zustand, TypeScript, Node.js, PostgreSQL, Tailwind CSS, Docker, Git
+
+📁 You can view my portfolio and projects here: [https://baesp.vercel.app](https://baesp.vercel.app)
 
 <br/>
 
@@ -60,14 +61,10 @@ Currently, I'm working on building my portfolio and developing innovative projec
 ## Connect with me
 
 - 💼 **LinkedIn**: [https://linkedin.com/in/Baesp](https://linkedin.com/in/Baesp)
-- 🧑‍💻 **Port-foil**: [https://baesp1.github.io/](https://baesp1.github.io/)
+- 🧑‍💻 **Port-foil**: [https://baesp.vercel.app](https://baesp.vercel.app)
 - 📧 **Email**: [baesp2023@gmail.com](mailto:baesp2023@gmail.com)
 
 <br/>
 
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baesp1&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
 
 <br/>
